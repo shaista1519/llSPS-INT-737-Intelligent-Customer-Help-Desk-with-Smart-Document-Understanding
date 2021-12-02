@@ -32,8 +32,7 @@ Create customer care chat bot that can not only answer the basic questions such 
 (4) Watson Discovery Services
 
 
-### Node-Red UI after deploying: 
-(https://node-red-gjroe.eu-gb.mybluemix.net/ui "Click to go to Node-RED UI")
+
 
 
 
